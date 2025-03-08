@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "开始测试/appium初体验",
+              "path": "/docs/开始测试/appium初体验",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "开始测试/appium环境搭建",
+              "path": "/docs/开始测试/appium环境搭建",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "开始测试/java开发app自动化",
+              "path": "/docs/开始测试/java开发app自动化",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "准备工作/工具",
+              "path": "/docs/准备工作/工具",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "准备工作/基础",
+              "path": "/docs/准备工作/基础",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

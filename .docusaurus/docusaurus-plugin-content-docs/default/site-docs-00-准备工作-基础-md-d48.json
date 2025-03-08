@@ -1,0 +1,24 @@
+{
+  "id": "准备工作/基础",
+  "title": "准备工作",
+  "description": "需要简单做一下准备工作。",
+  "source": "@site/docs/00-准备工作/基础.md",
+  "sourceDirName": "00-准备工作",
+  "slug": "/准备工作/基础",
+  "permalink": "/docs/准备工作/基础",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-准备工作/基础.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自动化测试修仙之旅",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "工具",
+    "permalink": "/docs/准备工作/工具"
+  }
+}

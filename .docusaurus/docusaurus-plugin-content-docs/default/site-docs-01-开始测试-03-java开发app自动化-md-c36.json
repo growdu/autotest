@@ -1,0 +1,21 @@
+{
+  "id": "开始测试/java开发app自动化",
+  "title": "java开发安卓app自动化",
+  "description": "",
+  "source": "@site/docs/01-开始测试/03-java开发app自动化.md",
+  "sourceDirName": "01-开始测试",
+  "slug": "/开始测试/java开发app自动化",
+  "permalink": "/docs/开始测试/java开发app自动化",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-开始测试/03-java开发app自动化.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "appium初体验",
+    "permalink": "/docs/开始测试/appium初体验"
+  }
+}

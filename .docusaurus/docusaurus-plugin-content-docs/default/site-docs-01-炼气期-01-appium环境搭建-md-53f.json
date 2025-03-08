@@ -1,0 +1,25 @@
+{
+  "id": "炼气期/appium环境搭建",
+  "title": "appium环境搭建",
+  "description": "参考这篇文章，非常详细。",
+  "source": "@site/docs/01-炼气期/01-appium环境搭建.md",
+  "sourceDirName": "01-炼气期",
+  "slug": "/炼气期/appium环境搭建",
+  "permalink": "/docs/炼气期/appium环境搭建",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-炼气期/01-appium环境搭建.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "工具",
+    "permalink": "/docs/凡人期/工具"
+  },
+  "next": {
+    "title": "appium初体验",
+    "permalink": "/docs/炼气期/appium初体验"
+  }
+}
