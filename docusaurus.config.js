@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '自动化测试',
+  title: '安卓app自动化测试',
   tagline: '从0开始，一步一步，带你成为自动化测试高手',
   favicon: 'img/favicon.ico',
 
@@ -68,7 +68,7 @@ const config = {
         },
       },
       navbar: {
-        title: '自动化测试',
+        title: '安卓app自动化测试',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
